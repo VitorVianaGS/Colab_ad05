@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="icones/04-atendimento-ao-cliente.svg" width="88" height="88" alt="Icone do tema Atendimento ao cliente">
-</p>
+
 
 <h1 align="center">Tema 4 &mdash; Atendimento ao Cliente</h1>
 
